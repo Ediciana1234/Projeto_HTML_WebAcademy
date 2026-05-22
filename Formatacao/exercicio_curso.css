@@ -1,0 +1,25 @@
+.boxer h1 {
+    color: #111;
+    text-align: center;
+}
+
+ 
+
+.caixa {
+    background-color: #111;
+    color:#b2b2b2;
+    padding: 20px;
+    border-radius: 4px;
+    font-family: Arial;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.preco {
+    color: #febe01;
+    font-weight: bold;
+}
+
+span{
+    color: #febe01;
+}
