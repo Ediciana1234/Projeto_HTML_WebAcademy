@@ -1,25 +1,48 @@
-.boxer h1 {
-    color: #111;
+.boxer h1{
+    
+    color:#111;
     text-align: center;
 }
 
- 
-
-.caixa {
-    background-color: #111;
-    color:#b2b2b2;
+.boxer {
+    background-color:white;        
+    color: #b2b2b2;                
     padding: 20px;
-    border-radius: 4px;
-    font-family: Arial;
+    border-radius: 4px;            
+    font-family: Arial;            
     width: 300px;
     margin-bottom: 20px;
 }
 
+/* criando classe */
+.box {
+    background-color: #111;        
+    color: #b2b2b2;                
+    padding: 20px;
+    border-radius: 4px;            
+    font-family: Arial;            
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+/* Preço */
 .preco {
-    color: #febe01;
+    color: #febe01;                
     font-weight: bold;
 }
 
-span{
-    color: #febe01;
+/* Botão */
+button {
+    background-color: #febe01;     
+    color: #332200;                
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;            
+    cursor: pointer;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #e6c300;     
 }
